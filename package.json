@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Gatsby Blog",
-  "author": "Artyom Ivanov",
+  "author": "Artyom Ilin",
   "keywords": [
     "gatsby",
     "tailwind",
@@ -19,6 +19,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",

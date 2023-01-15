@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/blog-template",
+  pathPrefix: "/blog",
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "Gatsby Blog",

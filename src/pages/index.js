@@ -14,7 +14,7 @@ const IndexPage = ({ data }) => {
           And it's <span className="text-indigo-600">my blog</span>.
         </h1>
         <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-          This page about Artem's life.
+          This page about Artem's life
         </p>
       </div>
       <hr className="mt-20"/>
